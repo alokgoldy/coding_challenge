@@ -1,0 +1,2 @@
+https://leetcode.com/problems/detect-capital/
+This question is taken from leetcode day1 august 2020 challenge
